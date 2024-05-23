@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ACER\Documents\Altium\Altium_project\Barrier_control\Barrier_control.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=barrier_control-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=barrier_control-slotholes.txt|DrillLayers=gtl,gbl
